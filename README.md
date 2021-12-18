@@ -17,13 +17,15 @@ https://www.mobiflight.com/en/index.html
 
 If you want to compile the program yourself, I used Qt Creator with Qmake and Visual Studio 2019 as the compiler.
 
-In the future I want to see if I can make it a bit more VS independant.
+You can also download the zip file in the executable folder, extract the file and run MidiSimConnect.exe 
+
+In the future I want to see if I can make it a bit more VS independent.
 
 ### Usage ###
 
 If you run the program for the first time, the program will create a folder called config. In this folder it will create two files; config.cfg and program.ide.
 
-Managing config files is hopefully self explanatoring. 
+Managing config files is hopefully self explanatory. 
 
 To assign keys
 
@@ -40,3 +42,7 @@ Keep the program running in the background while flying.
 This is the way I setup up my midi device
 
 ![MidiDevice](https://github.com/Ariebaba/MidiSimConnect/blob/main/Github/AkaiMPKMiniIIIProgramEditor.jpg)
+
+### Feedback ###
+
+Any feedback is appreciated.
