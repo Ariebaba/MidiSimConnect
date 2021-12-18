@@ -45,4 +45,4 @@ This is the way I setup up my midi device
 
 ### Feedback ###
 
-Any feedback is appreciated.
+Any feedback is appreciated. Support MobiFlight.. they did the heavy lifting!
