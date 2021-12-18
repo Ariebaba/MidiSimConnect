@@ -17,8 +17,6 @@ https://www.mobiflight.com/en/index.html
 
 If you want to compile the program yourself, I used Qt Creator with Qmake and Visual Studio 2019 as the compiler.
 
-You can also download the zip file in the executable folder, extract the file and run MidiSimConnect.exe 
-
 In the future I want to see if I can make it a bit more VS independent.
 
 ### Usage ###
