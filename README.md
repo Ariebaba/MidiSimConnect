@@ -13,6 +13,16 @@ This program uses the MobiFlight Wasm Module. You can get it by installing MobiF
 
 https://www.mobiflight.com/en/index.html
 
+### Credits ###
+
+thestk
+
+https://github.com/thestk/rtmidi
+
+MobiFlight
+
+https://www.mobiflight.com/en/index.html
+
 ### Setup ###
 
 If you want to compile the program yourself, I used Qt Creator with Qmake and Visual Studio 2019 as the compiler.
